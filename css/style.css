@@ -116,6 +116,9 @@ content h1 {
   margin: 0 auto;
 }
 
+h3, h2, h4 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 /* My Work Section */
 .myWork {
   padding: 60px 30px;
